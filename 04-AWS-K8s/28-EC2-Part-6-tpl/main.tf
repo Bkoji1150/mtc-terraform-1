@@ -52,4 +52,5 @@ module "compute" {
   vol_size        = "20"
   public_key_path = "/home/ubuntu/.ssh/mtckey.pub"
   key_name        = "mtckey1"
+
 }

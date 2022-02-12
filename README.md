@@ -4,7 +4,7 @@ This repo will be moving soon. Pleasee be patient as the course is still in prev
 
 ### How to use this repo
 
-git clone https://github.com/derekm1215/mtc-terraform.git
+git clone https://github.com/Bkoji1150/mtc-terraform.git
 
 Each directory is named after the lesson to which it refers. Within each directory, you will find the files that
 correspond to the final configuration for that lesson.
